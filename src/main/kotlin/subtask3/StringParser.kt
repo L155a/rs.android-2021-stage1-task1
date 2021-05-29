@@ -30,5 +30,6 @@ class StringParser {
             }
         }
         return result.toTypedArray()
+
     }
 }
